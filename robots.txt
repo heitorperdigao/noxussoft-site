@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://noxussoft.com.br/sitemap.xml
